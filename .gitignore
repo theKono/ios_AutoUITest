@@ -1,0 +1,6 @@
+#Test source binary
+app/*
+
+#Edit temp file
+*.swp
+
